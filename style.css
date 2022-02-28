@@ -116,3 +116,13 @@ h1{
 .column{
     flex: 50%;
 }
+
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    color: #660066;
+    padding: 1rem;
+    position: sticky;
+    margin-top: 4rem;
+}
